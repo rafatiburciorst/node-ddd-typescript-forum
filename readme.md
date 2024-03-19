@@ -11,7 +11,7 @@
 - Usuário
     - Pessoas que vão usar o sistema.
 
-- Agrergados
+- Agregados
     - Objetos que não fazem sentido sem o objeto principal.
 
 - Entidades
@@ -28,3 +28,6 @@
 
 - Subdomínio
     - Parte do domínio que é separada do domínio principal.
+
+### The Clean Architecture
+<img src="https://blog.cleancoder.com/uncle-bob/images/2012-08-13-the-clean-architecture/CleanArchitecture.jpg" alt="The Clean Architecture" width="500"/>
